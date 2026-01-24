@@ -2,6 +2,6 @@
 
 I'm here looking for experience and knowledge. Maybe collaborating in some projects too.
 
-I can speak portuguese and english.
+PT-BR/EN
 
-Currently learning Python.
+Python | MySQL | Flask
