@@ -1,7 +1,15 @@
-✎ Hi, I’m Miguel William.
+# ✎ Oi, sou Miguel William!
 
-I'm here looking for experience and knowledge. Maybe collaborating in some projects too.
+_PT-BR/EN_
 
-PT-BR/EN
+Sou formado como Técnico em Informática pelo IFRN.
 
-Python | MySQL | Flask
+Atualmente cursando Tecnologia da informação na UFRN.
+
+# Tech Stack
+| Categoria | Itens |
+| --- | --- |
+| Linguagens | Python, Javascript |
+| Dados | MySQL, SQLite |
+| Frameworks | Flask, Django |
+| Ferramentas |  Git, Bash, MySQL Workbench |
