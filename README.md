@@ -9,7 +9,7 @@ Atualmente cursando Tecnologia da informação na UFRN.
 # Tech Stack
 | Categoria | Itens |
 | --- | --- |
-| Linguagens | Python, Javascript |
+| Linguagens | Python |
 | Dados | MySQL, SQLite |
 | Frameworks | Flask, Django |
 | Ferramentas |  Git, Bash, MySQL Workbench |
